@@ -1,1 +1,0 @@
-C:\Users\Admin\Desktop\Duyy\Work\pdfReder2\PDFReaderPro\PDFReaderPro\android-pdf-viewer\src\main\java\pdfium\CMakeLists.txt
