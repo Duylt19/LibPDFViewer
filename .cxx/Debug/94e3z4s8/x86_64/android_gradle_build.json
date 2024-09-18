@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\src\\main\\java\\pdfium\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\.cxx\\Debug\\94e3z4s8\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\.cxx\\Debug\\94e3z4s8\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jniPdfium::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "jniPdfium",
+      "output": "C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\build\\intermediates\\cxx\\Debug\\94e3z4s8\\obj\\x86_64\\libjniPdfium.so",
+      "runtimeFiles": [
+        "C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\src\\main\\java\\pdfium\\jni\\lib\\x86_64\\libpdfsdk.so",
+        "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\21\\liblog.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

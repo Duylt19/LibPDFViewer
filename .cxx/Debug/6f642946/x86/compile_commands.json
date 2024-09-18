@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/.cxx/Debug/6f642946/x86",
+  "command": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DjniPdfium_EXPORTS -IC:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/src/main/java/pdfium/jni/include -IC:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/src/main/java/pdfium/jni/include/utils -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -fsigned-char -O0 -fno-limit-debug-info  -fPIC -pthread -o CMakeFiles\\jniPdfium.dir\\jni\\src\\mainJNILib.cpp.o -c C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\src\\main\\java\\pdfium\\jni\\src\\mainJNILib.cpp",
+  "file": "C:\\Users\\Admin\\Desktop\\Duyy\\Work\\pdfReder2\\PDFReaderPro\\PDFReaderPro\\android-pdf-viewer\\src\\main\\java\\pdfium\\jni\\src\\mainJNILib.cpp"
+}
+]

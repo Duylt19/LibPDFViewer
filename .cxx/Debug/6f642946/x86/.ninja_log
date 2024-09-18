@@ -1,0 +1,15 @@
+# ninja log v5
+0	6	0	clean	9c15a1b5c9c55f42
+0	484	711964078	CMakeFiles/jniPdfium.dir/jni/src/mainJNILib.cpp.o	6dd9f3a6f5571438
+485	683	711964078	C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/build/intermediates/cxx/Debug/6f642946/obj/x86/libjniPdfium.so	9eecc77fafac7bb7
+0	7	0	clean	9c15a1b5c9c55f42
+5	731	712842655	CMakeFiles/jniPdfium.dir/jni/src/mainJNILib.cpp.o	6dd9f3a6f5571438
+731	956	712842656	C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/build/intermediates/cxx/Debug/6f642946/obj/x86/libjniPdfium.so	9eecc77fafac7bb7
+0	9	0	clean	9c15a1b5c9c55f42
+4	2384	713096351	CMakeFiles/jniPdfium.dir/jni/src/mainJNILib.cpp.o	6dd9f3a6f5571438
+2384	2661	713096351	C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/build/intermediates/cxx/Debug/6f642946/obj/x86/libjniPdfium.so	9eecc77fafac7bb7
+0	5	0	clean	9c15a1b5c9c55f42
+2	1391	713102672	CMakeFiles/jniPdfium.dir/jni/src/mainJNILib.cpp.o	6dd9f3a6f5571438
+1391	1975	713102672	C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/build/intermediates/cxx/Debug/6f642946/obj/x86/libjniPdfium.so	9eecc77fafac7bb7
+15	1105	745219945	CMakeFiles/jniPdfium.dir/jni/src/mainJNILib.cpp.o	6dd9f3a6f5571438
+1105	1654	745219946	C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/build/intermediates/cxx/Debug/6f642946/obj/x86/libjniPdfium.so	9eecc77fafac7bb7

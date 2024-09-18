@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "jniPdfium::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jniPdfium-Debug-2834df6fb97315903f22.json",
+					"name" : "jniPdfium",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/.cxx/Debug/6f642946/x86",
+		"source" : "C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/src/main/java/pdfium"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

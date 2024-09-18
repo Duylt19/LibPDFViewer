@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/.cxx/Debug/6f642946/x86_64/CMakeFiles/jniPdfium.dir
+C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/.cxx/Debug/6f642946/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Duyy/Work/pdfReder2/PDFReaderPro/PDFReaderPro/android-pdf-viewer/.cxx/Debug/6f642946/x86_64/CMakeFiles/rebuild_cache.dir
