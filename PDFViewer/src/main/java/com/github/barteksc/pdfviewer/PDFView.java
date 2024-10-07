@@ -976,6 +976,24 @@ public class PDFView extends RelativeLayout {
         }
     }
 
+    public void changeNightMode(boolean nightMode) {
+        this.nightMode = nightMode;
+        if (nightMode) {
+            ColorMatrix colorMatrixInverted =
+                    new ColorMatrix(new float[]{
+                            -1, 0, 0, 0, 255,
+                            0, -1, 0, 0, 255,
+                            0, 0, -1, 0, 255,
+                            0, 0, 0, 1, 0});
+
+            ColorMatrixColorFilter filter = new ColorMatrixColorFilter(colorMatrixInverted);
+            paint.setColorFilter(filter);
+        } else {
+            paint.setColorFilter(null);
+        }
+        this.invalidate();
+    }
+
     void enableDoubletap(boolean enableDoubletap) {
         this.doubletapEnabled = enableDoubletap;
     }
