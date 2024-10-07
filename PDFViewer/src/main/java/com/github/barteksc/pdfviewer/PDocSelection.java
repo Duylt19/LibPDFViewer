@@ -260,7 +260,8 @@ public class PDocSelection extends View {
                                 }else {
                                     rectHighlightPaint.setColor(getResources().getColor(R.color.heightlight_color));
                                 }
-                                canvas.drawRoundRect(VR, 10,10,rectHighlightPaint);
+//                                canvas.drawRoundRect(VR, 10,10,rectHighlightPaint);
+                                canvas.drawRect(VR,rectHighlightPaint);
                                 canvas.restore();
                             }
                         }
