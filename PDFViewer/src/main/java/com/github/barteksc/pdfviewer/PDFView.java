@@ -1868,6 +1868,11 @@ public class PDFView extends RelativeLayout {
         this.swipeVertical = swipeVertical;
     }
 
+    public void changeSwipeVertical(boolean swipeVertical) {
+        this.swipeVertical = swipeVertical;
+        jumpTo(currentPage);
+    }
+
     public void enableAnnotationRendering(boolean annotationRendering) {
         this.annotationRendering = annotationRendering;
     }
