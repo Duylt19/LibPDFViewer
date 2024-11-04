@@ -49,7 +49,7 @@ public class PDocSearchTask implements Runnable {
 
             SearchRecord schRecord;
             for (int i = 0; i < a.getPageCount(); i++) {
-                if (abort.get()) {
+                if (abort.get() || i > 800) {
                     break;
                 }
                 schRecord =a.findPageCached(key, i, 0);
